@@ -1,8 +1,9 @@
 #!/bin/bash
 # Wiena Amanda
 # Mon Oct 5 07:50:15 WIB 2020
+# Thu Oct 8 13:52:48 WIB 2020
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
@@ -22,3 +23,4 @@ gpg --verify $SHA.asc $SHA
 exit 0
 
 # Mon Oct 5 07:50:48 WIB 2020
+# Thu Oct 8 13:53:24 WIB 2020
