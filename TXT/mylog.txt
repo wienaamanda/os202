@@ -36,6 +36,7 @@ ZCZC W02 25 L99 Ask Friend: no route to host
 
 ZCZC W03 120 L02 ZOOM related
 ZCZC W03 15 L13 Assignment #3
+ZCZC W03 60 L14 Assignment #5
 ZCZC W03 10 L16 Assignment #6
 ZCZC W03 15 L17 Assignment #7
 ZCZC W03 10 L18 Assignment #8
@@ -43,3 +44,4 @@ ZCZC W03 2  L19 Assignment #9
 ZCZC W03 3  L20 Assignment #10
 ZCZC W03 15 L05 GSGS
 ZCZC W03 10 L99 Ask Friend: no such file or directory when do "make"and record the disk usage
+ZCZC W03 50 L05 GSGS
