@@ -1,11 +1,11 @@
 #!/bin/bash
 # Wiena Amanda
-# Mon Oct 5 07:50:15 WIB 2020
-# Thu Oct 8 13:52:48 WIB 2020
+# Thu Oct 15 16:58:15 WIB 2020
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
