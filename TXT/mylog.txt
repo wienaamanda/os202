@@ -50,3 +50,15 @@ ZCZC W03 10 L99 Ask Friend: no such file or directory when do "make"and record t
 ZCZC W03 50 L05 GSGS
 ZCZC W03 90 L07 Demo related
 ZCZC W03 15 L09 Asking Asdos
+
+ZCZC W04 100 L02 ZOOM
+ZCZC W04 100 L11 Assignment #1
+ZCZC W04 5 L12 Assignment #2
+ZCZC W04 20 L13 Assignment #3
+ZCZC W04 75 L14 Assignment #4
+ZCZC W04 5 L15 Assignment #5
+ZCZC W04 15 L16 Assignment #6
+ZCZC W04 10 L17 Assignment #7
+ZCZC W04 5 L17 Assignment #8
+ZCZC W04 3 L17 Assignment #9
+ZCZC W04 60 L05 GSGS
