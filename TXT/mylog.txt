@@ -63,3 +63,15 @@ ZCZC W04 5 L17 Assignment #8
 ZCZC W04 3 L17 Assignment #9
 ZCZC W04 60 L05 GSGS
 ZCZC W04 60 L07 Demo Related
+
+ZCZC W05 100 L02 ZOOM related
+ZCZC W05 100 L11 Assignment #1
+ZCZC W05 5 L12 Assignment #2
+ZCZC W05 20 L13 Assignment #3
+ZCZC W05 90 L14 Assignment #4
+ZCZC W05 5 L15 Assignment #5
+ZCZC W05 15 L16 Assignment #6
+ZCZC W05 10 L17 Assignment #7
+ZCZC W05 5 L18 Assignment #8
+ZCZC W05 5 L19 Assignment #9
+ZCZC W05 80 L05 GSGS
