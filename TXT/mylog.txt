@@ -87,3 +87,15 @@ ZCZC W06 10 L17 Assignment #7
 ZCZC W06 1 L19 Assignment #9
 ZCZC W06 5 L20 Assignment #10
 ZCZC W06 2 L20 Assignment #11
+
+ZCZC W07 100 L02 ZOOM related
+ZCZC W07 2 L13 Assignment #3
+ZCZC W07 20 L14 Assignment #4
+ZCZC W07 80 L15 Assignment #5
+ZCZC W07 5 L16 Assignment #6
+ZCZC W07 30 L17 Assignment #7
+ZCZC W07 10 L18 Assignment #8
+ZCZC W07 3 L20 Assignment #10
+ZCZC W07 10 L20 Assignment #11
+ZCZC W07 5 L20 Assignment #12
+ZCZC W07 70 L05 GSGS
